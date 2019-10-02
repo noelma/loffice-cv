@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/noelma/loffice-cv.svg)
 ![GitHub release](https://img.shields.io/github/release/noelma/loffice-cv.svg)
 ![LibreOffice Version](https://img.shields.io/badge/libreoffice-%3E%3D5.4-brightreen)
-[![Download LOffice](https://img.shields.io/badge/download-releases%20latest-blue.svg)](https://github.com/noelma/loffice-cv/archive/master.zip "Download LOffice")
+[![Download LOffice](https://img.shields.io/badge/download-releases%20latest-blue.svg)](https://github.com/noelma/loffice-color/releases/latest/download/loffice-color.oxt "Download LOffice")
 
 * :gb: [README in Anglais](README.md)
 * :fr: [README en Français](README_fr.md)
@@ -29,7 +29,7 @@
 
 # Installation
 
-* Download the loffice-cv.ott file.
+* [Download the loffice-cv.ott](https://github.com/noelma/loffice-color/releases/latest/download/loffice-color.oxt) file.
 * Open LibreOffice,
 * Click `File` > `Templates`> `Open Template…` in the menu bar,
 * Select the file to download and click `Open`.
